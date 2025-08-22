@@ -1,7 +1,3 @@
-Tentu, ini adalah draf untuk file `README.md` yang dapat Anda gunakan. Teks ini dirancang untuk memberikan gambaran yang jelas dan ringkas tentang proyek Anda kepada siapa pun yang mengunjungi repositori GitHub Anda.
-
----
-
 ### **Judul Proyek: Analisis Perilaku Pengguna Terhadap Iklan Digital**
 
 **Deskripsi Proyek**
